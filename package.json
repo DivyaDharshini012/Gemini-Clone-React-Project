@@ -1,5 +1,5 @@
 {
-  "homepage": "https://DivyaDharshini012.github.io/Gemini-Clone-React-Project",
+
   "name": "gemini-clone",
   "private": true,
   "version": "0.0.0",
@@ -7,11 +7,9 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-      "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+ 
     "lint": "eslint .",
     "preview": "vite preview"
-  
   },
   "dependencies": {
     "@google/generative-ai": "^0.21.0",
